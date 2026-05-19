@@ -1,0 +1,5 @@
+npm create vite@latest smartlibrary
+cd smartlibrary-frontend
+npm install
+
+npm install vue-router@4 axios chart.js vue-chartjs
