@@ -1,0 +1,26 @@
+src/
+│
+├── api/
+│   └── axios.js
+│
+├── router/
+│   └── index.js
+│
+├── utils/
+│   └── formatDate.js
+│
+├── components/
+│   ├── Navbar.vue
+│   ├── BookCard.vue
+│   ├── BorrowingList.vue
+│   ├── BorrowModal.vue
+│   └── AddBookModal.vue
+│
+├── views/
+│   ├── Login.vue
+│   ├── Register.vue
+│   ├── Dashboard.vue
+│   └── BookDetail.vue
+│
+├── App.vue
+└── main.js
